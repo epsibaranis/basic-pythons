@@ -3,6 +3,6 @@ a=int(input('a=?'))
 if a==0:
     print('zero')
 elif a>0:
-    print('positive')
+    print('The given integer is positive')
 else:
-    print('negative')
+    print('The given integer is negative')

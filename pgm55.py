@@ -2,6 +2,6 @@
 a=(input('a='))
 d= ord(a)
 if d<=48 and d<=57:
-    print('Digit')
+    print('Character is Digit')
 else:
-    print('Not Digit')
+    print('Character is Not Digit')

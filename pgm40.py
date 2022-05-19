@@ -1,7 +1,6 @@
 # Integer no is even or odd using implict check
 a=int(input('a=?'))
 if a%2:
-    print('Odd Number')
+    print('Integer no is Odd Number')
 else:
-    print('Even Number')
-
+    print('Integer no is Even Number')

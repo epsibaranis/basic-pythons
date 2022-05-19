@@ -4,9 +4,9 @@ b=int(input('b=?'))
 c=int(input('c=?'))
 if a<b:
     if a<c:
-     print(a)
+     print("smallest of three integerno\'s",a)
 else:
     if b<c:
-     print(b)
+     print("smallest of three integerno\'s",b)
     else:
-     print(c)
+     print"smallest of three integerno\'s",(c)

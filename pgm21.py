@@ -2,6 +2,6 @@
 a=int(input('a=?'))
 b=int(input('b=?'))
 if a<b:
-    print(a)
+    print("The smallst of two integer\'s",a)
 else:
-    print(b)
+    print("The smallest of two integer\'s",b)

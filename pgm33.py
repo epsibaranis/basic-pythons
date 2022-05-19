@@ -1,12 +1,10 @@
 # Character is Uppercase, Lowercase or Digit
 a= str(input('a=?'))
 if a>='A' and a<='Z':
-    print('Upper case')
+    print('Character is Upper case')
 elif a>='a' and a<='z':
-    print('Lower case')
+    print('Character is Lower case')
 elif a>='0' and a<='9':
-    print('digit')
+    print('Character is digit')
 else:
-    print('Special Character')
-    
-    
+    print('Character is Special Character')    

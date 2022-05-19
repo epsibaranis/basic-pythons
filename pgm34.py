@@ -1,7 +1,6 @@
 # Character is vowel or not
 a=str(input('a=?'))
 if a=='a' or a=='e' or a=='i' or a=='o' or a=='u':
-    print('Vowel')
+    print('Character is Vowel')
 else:
-    print('Not Vowel')
-
+    print('Character is Not Vowel')

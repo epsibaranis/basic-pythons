@@ -2,6 +2,6 @@
 a=input('a=')
 d= ord(a)
 if d<=65 and d<=90:
-    print('Uppercase')
+    print('Character is Uppercase')
 else:
-    print('Not Uppercase')
+    print('Character is Not Uppercase')

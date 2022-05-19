@@ -2,11 +2,10 @@
 a=str(input('a='))
 d= ord(a)
 if d>=65 and d<=90:
-    print('Uppercase')
+    print('Character is Uppercase')
 elif d>=97 and d<=122:
-    print('Lowercase')
+    print('Character is Lowercase')
 elif d>=48 and d<=57:
-    print('Digit')
+    print('Character is Digit')
 else:
-    print('Special character')
-    
+    print('Character is Special character')

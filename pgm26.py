@@ -6,6 +6,6 @@ d=c%10
 e=c//10
 f=b*100+d*10+e
 if f==a:
-    print('Polyndrome')
+    print('Three digit no is Polyndrome')
 else:
-    print('Not Polyndrome')
+    print('Three digit no is Not Polyndrome')

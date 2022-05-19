@@ -1,11 +1,10 @@
 # Operator is a Arithmatic, Relational, Logical Operator
 a=str(input('a=?'))
 if a=='+' or a=='-' or a=='*' or a=='/' or a=='%':
-    print('Arithmatic Operator')
+    print('Operator is a Arithmatic Operator')
 elif a=='>' or a=='<' or a=='=' or a=='<=' or a=='>=' or a=='!=':
-    print('Relational Operator')
+    print('Operator is a Relational Operator')
 elif a=='and' or a=='or' or a=='not':
-    print('Logical Operator')
+    print('Operator is a Logical Operator')
 else:
-    print('Not Logical, Arithmatic, Relational operator')
-
+    print('Operator is Not Logical, Arithmatic, Relational operator')

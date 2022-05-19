@@ -1,7 +1,6 @@
 # Integer no is zero or not using implict check
 a=int(input('a=?'))
 if a:
-    print('Not Zero')
+    print('Integer no is not Zero')
 else:
-    print('Zero')
-
+    print('Integer no is Zero')

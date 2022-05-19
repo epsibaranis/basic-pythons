@@ -1,18 +1,12 @@
-# -*- coding: utf-8 -*-
-"""
-pgm no 22
-Created on Wed Dec 22 17:09:03 2021
-biggest of three integerno's'
-@author: tt
-"""
+# biggest of three integerno's'
 a=int(input('a=?'))
 b=int(input('b=?'))
 c=int(input('c=?'))
 if a>b:
     if a>c:
-     print(a)
+     print("biggest of three integerno\'s",a)
 else:
     if b>c:
-     print(b)
+     print("biggest of three integerno\'s",b)
     else:
-     print(c)
+     print("biggest of three integerno\'s",c)

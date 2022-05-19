@@ -1,6 +1,6 @@
 # Character is Digit or not
-a= str(input('a=?'))
+a= input('a=?')
 if a>='0' and a<='9':
-    print('Digit')
+    print('Character is Digit')
 else:
-    print('Not Digit')
+    print('Character is Not Digit')

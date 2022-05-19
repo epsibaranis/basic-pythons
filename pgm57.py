@@ -4,7 +4,7 @@ d= ord(a)
 if d>=65 and d<=90:
     e=d+32
     f=chr(e)
-    print(f)
+    print("Uppercase for the lowercase",f)
           
 else:
     print('Not Uppercase')

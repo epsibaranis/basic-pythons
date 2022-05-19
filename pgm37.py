@@ -1,7 +1,6 @@
 # Operator is an Logical Operator or not
 a=str(input('a=?'))
 if a=='and' or a=='or' or a=='not':
-    print(' Logical Operator')
+    print(' Operator is Logical Operator')
 else:
-    print('Not Logical Operator')
-
+    print('Operator is Not Logical Operator')
